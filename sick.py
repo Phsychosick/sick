@@ -1,2 +1,2 @@
-import code
-code.sick()
+import sick
+sick.sick()
