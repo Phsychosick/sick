@@ -1,2 +1,2 @@
-import sick
-sick.sick()
+import sys,os
+print("Aisy he Sexy Lag raha Ta 🙆🏻‍♂️")
